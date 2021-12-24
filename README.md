@@ -1,1 +1,1 @@
-# Sparks_Foundation_Internship
+#Machine Learning Projects
